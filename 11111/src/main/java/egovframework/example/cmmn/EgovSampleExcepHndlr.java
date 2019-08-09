@@ -20,6 +20,7 @@ import egovframework.rte.fdl.cmmn.exception.handler.ExceptionHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/*package egovframework.example.sample.web;yyy*/
 /**
  * @Class Name : EgovSampleExcepHndlr.java
  * @Description : EgovSampleExcepHndlr Class
